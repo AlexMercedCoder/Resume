@@ -1,0 +1,116 @@
+{
+    "Name": "Alex Merced",
+    "Location": "Brooklyn, NY",
+    "Contact": {
+        "Phone": "860-995-1048",
+        "Email": "Hire@AlexMerced.com",
+        "LinkedIN": "http://www.linkedin.com/in/alexmerced",
+    },
+    "Github": "http://www.github.com/alexmerced",
+    "Portfolio": "AlexMercedCoder.com",
+    "Skills":{
+        "ProgrammingLanguages": ["Html","Javascript","Python", "CSS", "Typescript", "PHP"],
+        "BackendFrameworks": ["NodeJS", "ExpressJS", "KoaJS", "Django"],
+        "FrontendFrameworks": ["AngularJS", "Angular 8", "VueJS", "React", "StencilJS", "Svelte"],
+        "SpokenLanguages": ["English", "Spanish"],
+        "OtherSkills": ["Public Speaking", "Live Training", "Online Training", "Wordpress", "Moodle", "Mezzanine CMS",
+        "Social Media Management", "Email Marketing", "Online Media (Podcasting/Vlogging)", "Financial Industry Knowledge", "Branding Strategy Development and Implementation"]
+    },
+    "ProgrammingExperience" : [
+
+        {
+            "Project":"Computer Science Videos",
+            "Description":"Created videos of me explaining computer science concepts like search algorithms and data structures",
+            "Github":"https://github.com/AlexMercedCoder/StandardAlgorithms",
+            "Live Website":"https://www.youtube.com/watch?v=QwnFW-Wf10Q&list=PLY6oTPmKnKbbfwjU1ToZlUWCinxmFqlIp"
+        },
+        {
+            "Project":"Full Stack Web Bookmark Application",
+            "Description":"Created an online bookmark application using Express/Mongo/AngularJS",
+            "Github":"https://github.com/AlexMercedCoder/bookmarkApp",
+            "Live Website":"https://hidden-oasis-38675.herokuapp.com/"
+        },
+        {
+            "Project":"Full Stack Event Volunteer Coodinator",
+            "Description":"Created an event volunteer coordination application using Express/Mongo/EJS",
+            "Github":"https://github.com/AlexMercedCoder/Unit2EveVol",
+            "Live Website":"https://shrouded-beach-63520.herokuapp.com/"
+        },
+        {
+            "Project":"Blogs using different Frontend and Backend Frameworks",
+            "Description":"Created blogs using frameworks such as Angular, Vue, React, StencilJS, KoaJs, ExpressJS, Django and more.",
+            "Github":"https://github.com/AlexMercedCoder/Angular8PracticeSPA",
+            "Live Website":"https://medium.com/@AlexMercedCoder/creating-blogs-and-learning-web-development-a6601aa894ba"
+        },
+
+    ],
+
+    "Education": [
+        {
+            "School":"General Assembly",
+            "Program":"Software Engineering Immersive",
+            "Description":"Three-month, 500-hour full-time and full-stack program conducted in a remote setting, providing experience with the latest front- and back-end programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, PHP, AngularJS, NodeJS, ReactJS, Wordpress, Git, Github, and Agile/Scrum.",
+        },
+        {
+            "School":"Bowling Green State University",
+            "Program":"B.A. Marketing/Pop Culture Studies",
+            "Description":"Took C++ coursework and was nominated for Senior of the Year by the Pop Culture Studies Department",
+        },
+        {
+            "School":"Howell Cheney RVTS",
+            "Program":"HS Diploma/Microcomputer Certificate",
+            "Description":"Took C++ coursework, Member of Robotics and Math Teams",
+        },
+        {
+            "School":"Skillshare.com",
+            "Program":"Indepedant Coursework",
+            "Description":"Complete Bootstrap & Materialize Course, Programming in Python 3, Try Django: Learn Python Web Programming, Learn React Fundamentals, Full Stack Web Dev Part 1-4, The Node.JS Masterclass, Learn UX/UI Design in Adobe XD, Get started with SASS",
+        },
+        {
+            "School":"Sololearn.com",
+            "Program":"Indepedant Coursework",
+            "Description":"Tutorial certificates for Html, CSS, Javascript, C, C++, C#, Java, Ruby, Swift, Jquery, Python",
+        },
+
+
+
+
+    ],
+    "WorkExperience":[
+
+        {
+            "Employer": "Greico Financial Training",
+            "Duration": "May 2008 - September 2019",
+            "Description":
+            "- Worked directly under the CEO in all aspects of business operations including marketing and accounting.
+            - Developed and delivered online and live training to financial professionals of all levels around the world.
+            - Managed the website content and updates along with email and social media marketing
+            - Worked closely with our web CMS (Bigcommerce) and LMS (WizIQ) to create our website and eLearning content",
+        }
+
+    ],
+
+    "Other": {
+
+        "Hobbies": ["Podcasting", "Vlogging", "Creating Online Courses"],
+        "Interests": ["Technology", "Economics", "Marketing", "Media"],
+        "TV": ["Doctor Who", "Arrowverse", "Marvel Television", "Game of Thrones", "Sillicon Valley"],
+        "Music": ["Coheed and Cambria", "Regina Spektor", "Dance Gavin Dance", "Sufjan Stevens"],
+        "Movies": ["Her", "Swiss Army Man", "Memento"],
+        "FunFacts:"[
+            "Ran for public office",
+            "Started a hobby retail store in college",
+            "Plays guitar"
+        ]
+
+
+
+    }
+
+
+
+
+
+
+
+}
